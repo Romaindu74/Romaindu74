@@ -1,41 +1,53 @@
 # 🌙 À propos de moi
 
-Je m’appelle **Romain**, et depuis toujours, j’ai ce besoin de comprendre, de démonter, de tester, de créer.
-Pas forcément pour briller, juste pour *voir* comment les choses marchent.
-Le code, pour moi, ce n’est pas qu’un outil - c’est une façon d’exprimer des idées, de mettre un peu d’ordre dans le chaos, ou parfois d’en créer volontairement.
+Salut, moi c’est **Romain** — un curieux de nature, passionné par la technologie, le code, et tout ce qui relie l’idée à la réalité.  
+Je passe mon temps à démonter, tester, comprendre et créer, pas forcément pour que ce soit parfait, mais pour *voir comment ça marche*.
 
-Mon tout premier projet sérieux, **RPA Bot’s**, a commencé quand j’étais en **6ᵉ**.
-J’étais ce gamin curieux qui voulait faire un bot Discord “qui sait tout faire” : modération, musique, IA, commandes interactives…
-J’ai grandi avec lui, ligne après ligne, entre fascination et frustration.
-Pendant plus de **sept ans**, il m’a suivi, transformé, fait progresser.
-Même s’il n’a jamais vraiment fonctionné comme je le rêvais, il reste une énorme partie de mon histoire.
+---
 
-Quelques années plus tard, au lycée, j’ai entamé un autre projet complètement différent : une **machine à dessin** faite maison, basée sur une imprimante 3D.
-C’était pour mon **chef-d’œuvre de bac pro RISC**, et j’y ai mis tout ce que je savais — et tout ce que j’ai appris en cours de route.
-Entre les parasites sur les moteurs pas à pas, les bugs de Marlin, la galère avec les endstops et le Wemos… j’ai eu droit à toutes les étapes du “vrai” projet.
-Mais quand la machine a dessiné pour la première fois, c’était un moment suspendu. Ce genre d’instant où tu réalises que *tu as fabriqué quelque chose qui bouge, pense, et obéit à ton code.*
+## 💡 Mon parcours
 
-Depuis, j’ai touché à tout ce qui m’intrigue :
-la **cryptographie**, les **protocoles sécurisés maison**, les **IA locales** tournant sur **Ollama**, la conception de **BMPSRTC** — un protocole de communication binaire complet avec compression, intégrité et fragmentation, juste parce que j’adorais l’idée d’inventer *ma propre manière de faire parler deux machines.*
-Et au milieu de tout ça, il y a eu **Nova**, une IA inspirée de *Neuro-sama*, un peu folle, imprévisible et pleine de personnalité.
-Parce que même dans le code, j’aime quand quelque chose respire, quand ça a une âme, même virtuelle.
+Mon tout premier projet, **RPA Bot’s**, a commencé quand j’étais en **6ᵉ**.  
+C’était un bot Discord un peu fou, né de l’envie de tout apprendre d’un coup : modération, musique, intelligence artificielle, commandes interactives…  
+Je l’ai fait évoluer pendant **plus de sept ans**.  
+Il n’a jamais atteint tout ce que j’espérais, mais il m’a tout appris : la patience, la persévérance et la passion du code.
 
-Côté personnel, j’ai beaucoup évolué aussi.
-J’ai eu des passages plus calmes, d’autres plus durs.
-Depuis 2022, les choses n’ont pas toujours été simples, et j’ai parfois perdu la motivation pour recommencer.
-Mais malgré tout, j’ai trouvé un certain équilibre : un travail que j’aime, des amis proches avec qui je rigole encore comme avant, et surtout cette envie de **continuer d’apprendre**.
-Je ne suis plus dans la même énergie qu’à mes débuts — mais elle n’a pas disparu, elle s’est transformée.
+Quelques années plus tard, au lycée, j’ai créé une **machine à dessin** à partir d’une imprimante 3D pour mon **chef-d’œuvre de bac pro RISC**.  
+Deux ans de galères, de câbles mal soudés, de parasites dans les moteurs pas à pas, de lignes de code dans Marlin et de nuits blanches à calibrer.  
+Mais quand le stylo a tracé son premier trait, c’était magique.  
+C’est ce jour-là que j’ai compris pourquoi j’aimais autant construire.
 
-J’aime la solitude, mais pas par tristesse.
-J’aime le calme, les soirs où tout s’éteint et où il ne reste que le bruit du clavier, les idées qui se croisent, et la lumière d’un terminal noir.
-J’aime comprendre les choses profondément, pas juste les utiliser.
-Et j’aime ce sentiment étrange d’être à la fois perdu et exactement à ma place.
+---
 
-Je ne cherche plus à créer “le projet parfait”.
-Je veux juste créer ce qui me parle, apprendre, rêver un peu, et avancer à mon rythme.
-Mes projets sont parfois inachevés, mais sincères.
-Ils me ressemblent — un peu désordonnés, un peu trop ambitieux, mais toujours faits avec le cœur.
+## ⚙️ Ce que j’aime créer
 
-Et même si certains chapitres se sont terminés, **l’histoire continue**.
-Plus doucement, peut-être.
-Mais toujours avec la même curiosité qu’au premier jour. 🌙
+Depuis, j’ai touché à tout ce qui m’intrigue :  
+- la **cryptographie** et les systèmes de **chiffrement symétrique** ;  
+- la conception de **protocoles réseau maison** (dont **BMPSRTC**, un protocole binaire sécurisé avec fragmentation, compression et intégrité) ;  
+- les **IA locales**, comme **Nova**, une personnalité inspirée de *Neuro-sama* — absurde, imprévisible et pleine de vie.  
+
+J’aime construire des choses vivantes, qui respirent un peu, même si ce n’est “que” du code.  
+
+---
+
+## 🌱 Aujourd’hui
+
+Depuis 2022, tout n’a pas été simple, et il m’arrive encore de manquer de motivation.  
+Mais j’ai trouvé un équilibre : un travail que j’aime, des amis avec qui je ris encore, et toujours cette envie d’apprendre.  
+Je ne code plus avec la même intensité qu’avant, mais avec plus de recul, plus de calme.  
+
+J’aime la solitude, les nuits silencieuses, le bruit des touches dans une pièce sombre, la logique qui s’enchaîne sans qu’on s’en rende compte.  
+Je ne cherche plus à créer “le projet parfait” — je veux juste créer *ce qui me parle*.  
+
+Mes projets ne sont pas toujours terminés, mais ils sont toujours sincères.  
+Ils me ressemblent : un peu désordonnés, un peu ambitieux, mais faits avec le cœur. ❤️  
+
+---
+
+## ✨ Et maintenant ?
+
+Je continue d’apprendre, doucement, à ma manière.  
+Certains chapitres se sont refermés, d’autres commencent sans prévenir.  
+Mais la curiosité, elle, ne m’a jamais quitté.  
+
+> _Toujours en train d’expérimenter, d’observer, et de rêver un peu entre deux lignes de code._ 🌙
